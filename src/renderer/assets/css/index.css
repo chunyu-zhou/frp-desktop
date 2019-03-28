@@ -1,0 +1,44 @@
+@import "iconfont.css";
+.ant-dropdown-menu {
+    border-radius: 1px !important;
+    background-color: #31394C;
+    color: #94979F;
+}
+.ant-dropdown-menu-item, .ant-dropdown-menu-submenu-title {
+    padding: 5px 12px;
+    margin: 0;
+    clear: both;
+    font-size: 14px;
+    font-weight: normal;
+    color: #94979F;
+    white-space: nowrap;
+    cursor: pointer;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    line-height: 22px;
+}
+.ant-dropdown-menu-item > a, .ant-dropdown-menu-submenu-title > a {
+    color: #94979F;
+    display: block;
+    padding: 5px 12px;
+    margin: -5px -12px;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    background-color: #31394C;
+}
+.ant-dropdown-menu-item:hover > a, .ant-dropdown-menu-submenu-title:hover > a {
+    background-color: #293041;
+    color: #fff !important;
+}
+.ant-dropdown-menu-item a i.anticon {
+    margin-right: 8px;
+}
+
+.ant-dropdown-menu-item a i.anticon.logout {
+    color: #F56C6C;
+}
+.ant-badge-dot {
+    background: #F56C6C;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}

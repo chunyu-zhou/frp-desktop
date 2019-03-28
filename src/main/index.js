@@ -18,9 +18,21 @@ function createWindow () {
    * Initial window options
    */
   mainWindow = new BrowserWindow({
-    height: 563,
+    height: 560,
     useContentSize: true,
-    width: 1000
+    width: 400,
+    frame: false,
+    darkTheme: true,
+    resizable: false,
+    // minimizable: false,
+    // maximizable: false,
+    webPreferences: {
+      // devTools: false
+    },
+    // skipTaskbar: true, // 任务栏显示
+    backgroundColor: '#212735',
+    // hasShadow: true,
+    // transparent: true,
   })
 
   mainWindow.loadURL(winURL)

@@ -1,0 +1,34 @@
+@font-face {font-family: "iconfont";
+    src: url('../font/iconfont/iconfont.eot?t=1553667029797'); /* IE9 */
+    src: url('../font/iconfont/iconfont.eot?t=1553667029797#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPoAAsAAAAACHAAAAOaAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDKgqEGIMuATYCJAMUCwwABCAFhG0HSBsyB8iemjxtIwmCWStMQEGZcEAEz4/7b87V14KKbEKDnACk3ay8IYKhMG5ILuENravZI2cP8e4FxneTUEU3KRlJ8HvmtAiqlX0nVIEHhD7wA3QNkHEbOzU3Z7cENP/3eS7HN4Wv8S3LcYxNez4/DMM4oID2xjZZgUy3zBrGbqI8iN0Eek2gCFl5fPmYqSjAoECc1lUhU0nZlJrK0C20kplFPFV1p8fpC+AJf3z8px4kkpqBvdYfPZIzu7+QP/ewtzrA7pzp1ngeaPPImAcoxMlS32H5MDkPVq+TX7AY0A3bJX5hfp25zflfYhHFXjzdeqUURer/40UDyvuBpWKq8AvBsliPEbW4PlSUkPmTo7iPnSroRcNLvAUM0+QWIWSxo0ATrzAuubwU9uwploCZtyCcUZQtgfvOrXKlcMVSs0WytBRFoxxYAksr0cJLlZbxDlzapqSnDpT7xFX1yPNnXV28Kf2ycnTVqrSV+uq1VGknWop2+SaHh9ihgHM1s3+6eLIXvPhRtOMW/zt/n4+irky+v99XZncx6uv/XdyZAX18PzM6iniaXmdqGpwsJVstDta7wLaUm6Vdv7ltOPTWGjCTMDBGXVMcKRYhrNH610intUZbXW/5IGxETt/Sdq4UZP/ioDr8pdVN5oMfj5V35ww2qqGkkknsbRs6e56dP08agebPR7++4Mc5mTGHpAUJFaoVCQKC2FEM0kYnlKuWJwjxqi19dKlczPnV2TX/l4P5L2YWezsvclFNS/OcHyQAB+VLuQuAEvGRDsyufCad8vM85g8/x9l1f4x9bcPXSl8BPxc193mgAxft5b9J7sj/p66kXSVcJbDXYmvVKuM9BKod8iDx+5T/McsQx+OYhr+ldOg2PEbSZbwn63blIlGYeaj6zEfTbQl6zWUzv89QUfKi9GCOXAFhkH4kA3xGNsg6UZgjVCM8oRkUWPTaGtwV+8yIwJqFByGATF6JFOjNjoKcQS2ovIcaWoKXVHLuGZ6vR0hNWTWbOYEDb4wx0XHqOCZGIb8otsla2A+WxRQRxQakoB8QE6zWVVT8ym7U9w63MzUreEAQABnxkiKBJMyh0PqBWu7+90AVsgi8Gl5H+hl4fHrzRI0y1RbEic5pxbuWQ6JFVGMxAgrix8NsxFrwgAWTjESUdzOAJNAX0CO+sk5FqubXVtef32A/4wboBa5VI0WOEjWadil0LOiFUN0Z4UPZw5TgbbGPMQAAAA==') format('woff2'),
+    url('../font/iconfont/iconfont.woff?t=1553667029797') format('woff'),
+    url('../font/iconfont/iconfont.ttf?t=1553667029797') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url('../font/iconfont/iconfont.svg?t=1553667029797#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-xunlei:before {
+    content: "\e884";
+}
+
+.icon-min1:before {
+    content: "\e602";
+}
+
+.icon-more4:before {
+    content: "\e66d";
+}
+
+.icon-close2:before {
+    content: "\e601";
+}
+
+
